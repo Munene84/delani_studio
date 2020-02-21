@@ -1,0 +1,83 @@
+.background_picture{
+    height: 700px;
+    width: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../images/backgrounds/h_img.jpg');
+  }
+  .navigation{
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+  }
+.mouse{
+  padding-top: 170px;
+}
+
+.about_bar{
+  text-align: center;
+}
+.background_image{
+height: 300px;
+width: auto;
+background-image: url('../images/backgrounds/s_image.jpg');
+}
+.services_bar{
+  color: white;
+  text-align: center;
+  padding-left: 50px;
+}
+.PAGE{
+  height: auto;
+  width: auto;
+  text-align: center;
+}
+  .portfolio{
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding: 10px;
+}
+.background{
+  height: auto;
+  width: auto;
+  padding-top: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: url('../images/backgrounds/c_image.jpg');
+
+  }
+.port_pic{
+  height: 200px;
+  width: auto;
+  padding: 5px;
+}
+.contact_us{
+  color: white;
+  text-align: center;
+  padding-left: 350px;
+  padding-bottom: 100px;
+}
+.Name_area{
+  background-color: rgba(0,0,0,0);
+}
+.Email_area{
+  background-color: rgba(0,0,0,0);
+}
+.textarea{
+  background-color: rgba(0,0,0,0);
+}
+.iiiii::-webkit-input-placeholder{
+  color: white;
+  font-weight: bold;
+}
+.social_icons{
+  text-align: center;
+  padding: 50px;
+}
+.copyright{
+  text-align: center;
+  padding: 50px;
+}
