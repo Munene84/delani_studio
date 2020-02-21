@@ -1,7 +1,7 @@
 # DELANI_STUDIO
 #### By Edwin Munene
 
-##Description
+## Description
 This is a landing page for a fictional studio 
 
 ## Setup/Installation Requirements
