@@ -2,7 +2,7 @@
 #### By Edwin Munene
 
 ## Description
-This is a landing page for a fictional studio 
+This is a landing page for my fictional studio 
 
 ## Setup/Installation Requirements
 * Download Zip File
