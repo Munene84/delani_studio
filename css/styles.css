@@ -38,27 +38,33 @@ background-image: url('../images/backgrounds/s_image.jpg');
     width: auto;
     text-align: center;
     padding: 10px;
-}
-.background{
-  height: auto;
-  width: auto;
-  padding-top: 150px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background: url('../images/backgrounds/c_image.jpg');
-
   }
 .port_pic{
   height: 200px;
   width: auto;
   padding: 5px;
 }
+.port1, .port2, .port3, .port4, .port5, .port6, .port7, .port8{
+  display: none;
+  top: 0%;
+  color: red;
+  background-color: rgba(0,0,0,0);
+  height: 100%;
+  width: 100%;
+}
+.background{
+  height:auto;
+  width: 100%;
+  padding: 20px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: url('../images/backgrounds/c_image.jpg');
+  padding-bottom: 50px;
+}
 .contact_us{
   color: white;
   text-align: center;
-  padding-left: 350px;
-  padding-bottom: 100px;
 }
 .Name_area{
   background-color: rgba(0,0,0,0);
