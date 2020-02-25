@@ -46,6 +46,7 @@ background-image: url('../images/backgrounds/s_image.jpg');
 }
 .port1, .port2, .port3, .port4, .port5, .port6, .port7, .port8{
   display: none;
+  position: absolute;
   top: 0%;
   color: red;
   background-color: rgba(0,0,0,0);
@@ -86,4 +87,7 @@ background-image: url('../images/backgrounds/s_image.jpg');
 .copyright{
   text-align: center;
   padding: 50px;
+}
+.design1, .dev, .product{
+  display: none;
 }
